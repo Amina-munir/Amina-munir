@@ -1,11 +1,13 @@
 👋 Hi, I’m @Amina-munir!
 
-👀 I’m passionate about coding and advancing my skills in Python and C++ for data manipulation and analysis.
-📊 Working towards becoming a skilled Data Analyst proficient in extracting insights from complex datasets.
-💼 I'm eager to collaborate on projects that utilize data to drive business decisions and enhance user experiences.
+🔍 Passionate Data Analyst | 📊 Transforming raw data into actionable insights | 🧠 Lifelong learner
 
+🧰 Technical Skills
+Languages & Tools: Python, SQL, Excel, Tableau, Power BI
 
-<!---
-Amina-munir/Amina-munir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Data Analysis: Data wrangling, statistical analysis, predictive modeling
+
+Visualization: Creating interactive dashboards and reports
+
+Collaboration: Git, GitHub, Jupyter Notebooksa look at your changes.
 --->
